@@ -10,9 +10,9 @@ your JS code here. If required.
 // 	counter.innerHtML="counter2";
 // 	alert(counter2-2);
 // }
-//  let counter=document.getElementById("counter");
-//    let incrementBtn=document.get ElementById("incrementBtn");
-//    let counter=0;
+  let counter=document.getElementById("counter");
+    let incrementBtn=document.get ElementById("incrementBtn");
+    let counter=0;
 
 function incrementCounter(){
 	alert("Un-incremented value:" count++);
